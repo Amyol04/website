@@ -1,0 +1,195 @@
+<!doctype html>
+<html>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+<body {background-image:url:"FHCT9-Wirs/https/giant.gfycat.com/CompetentWeirdAstrangiacoral.mp4 background-repeat:repeat; }></body>
+    <head>
+        <title> Jax's Website </title>
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+
+        <style>
+            .center {
+                max-width: 100%;
+            }
+
+            .link-text {
+                font-family: Courier;
+                color: Black;
+                font-size: 20px;
+                text-align: center;
+            }
+
+            .head-img {
+                text-align: center;
+                max-width: 100%;
+                height: auto;
+                align-content: center;
+            }
+
+            .container-fluid {
+                padding: 0px
+            }
+
+            /* Three image containers (use 25% for four, and 50% for two, etc) */
+            .column {
+                float: left;
+                width: 50%;
+            }
+
+            .row {
+                margin: 0px;
+                max-width: 100%;
+            }
+
+            .text {
+                margin: 0px;
+                padding-left: 1%;
+                padding-right: 1%;
+            }
+
+
+            @media screen and (max-width: 500px) {
+                .column {
+                    width: 100%;
+                }
+            }
+        </style>
+
+    </head>
+
+    <div class="head-img">
+        <img class="head-img"
+            src="https://i.pinimg.com/originals/e6/8a/cd/e68acdaf2790dbe952e1b27c22764d2e.jpg"
+            alt="Flowers in Chania">
+          
+    </div>
+
+    <div class="container" style="width: 100%;">
+        <div class="link-text">
+            <h1><em><mark> I'm Amy!, Wassup! </mark></em></h1>
+        </div>
+
+        <hr>
+
+
+        <div class="link-text">
+            <h4><mark>Links!</mark></h4>
+            <li style="display:inline-block;">
+                <p> <a href="https://twitter.com/Jax_Sox" style="color: black;" target="_blank"><mark> Twitter
+                            &starf;</mark></a></p1></br>
+            </li>
+        
+            <li style="display:inline-block;">
+                <p> <a href="https://www.tumblr.com/blog/jaxsox" style="color: black;" target="_blank"><mark>Tumblr &starf;</a>
+                    </p1></br>
+            </li>
+            
+            <li style="display:inline-block;">
+            <p> <a href="https://www.linkedin.com/in/amy-o%E2%80%99leary-391836238" style="color: black;"target="_blank"><mark>Linkdin &starf; </a>
+            </li>
+            </p1></br>
+            <li style="display:inline-block;">
+                <p> <a href="https://www.instagram.com/jaxx.sox/" style="color: black;" target="_blank"><mark>Insta &starf;</a>
+                    </p1>
+                    </br>
+            </li>
+
+            <li style="display:inline-block;">
+                <p> <a href="https://www.twitch.tv/jaxsox" style="color: black;" target="_blank"><mark> Twitch
+                            &starf;</mark></a></p1></br>
+            </li>
+            <li style="display:inline-block;">
+                <p> <a href="https://vm.tiktok.com/ZM8QVQgSj" style="color: black;" target="_blank"><mark> Tiktok
+                            &starf;</mark></a></p1></br>
+            </li>
+        </li>
+        <li style="display:inline-block;">
+            <p>
+            <p>
+                <mark> My other socials include: <br> 
+                 Discord ; Jsox #0461 <br>  Snap ; Amyol04 </mark>
+            </p> 
+            <mark> The links above are clickable! </mark>
+
+
+<hr>
+        <div class="container">
+        
+            <div class="row">
+                <div class="column">
+                    <p class="text" style="width: 100%;"> 
+                    <mark>
+                        A little about me! <br> Hey! my name is Amy. Im an 18 yr old from Ireland who decided to mess around and make a website! howya?
+                        <br>
+                    </mark>
+                    <p>
+                </div>
+        
+                <div class="column">
+                    <img style="width: 100%;"
+                        src="https://i.pinimg.com/originals/8a/7f/51/8a7f5194e88c0900633b1d37d179a850.jpg"
+                        alt="flowers">
+                </div>
+            </div>
+        
+            <div class="row"></div>
+            <div class="column">
+                <img style="width: 100%;"
+                    src="https://64.media.tumblr.com/9219d0cf475185a4f31bbb4b78484f14/4d18b12c375a5c6d-cd/s1280x1920/deecdc3419e5d3dd65a5a1f66ae65d2eef2f8d4b.jpg"
+                    alt="flowers">
+            </div>
+        
+            <div class="column">
+                <p class="text" style="width: 100%;">
+                    <br> <mark>
+                        This is one of the first of many websites ill built. Im studying software development in Kerry college! Im Learning basic Java, Python and much more! im hoping to study computer science in ucc later on :).
+                    </mark>
+                
+                <p>
+            </div>
+        </div>
+        
+        </div>
+        
+        <div class="container">
+            <p class="text" style="width: 100%;"> <mark> Hope ya liked this site lol. one day it will be better</mark> 
+            <p>
+        </div>
+        
+        <div class="container">
+            <p class="text" style="width: 100%;"> <mark style="color:black;">Follow me on socials, pls xx </mark>
+            <p>
+        </div>
+        
+        </div>
+
+
+    </div>
+
+
+</body>
+<!-- <div class="container">
+    <div class="box-row">
+        <div class="box red" <center><em><b>t e s t </b> </em><b> </b>
+            <p>
+            <ul>
+                </p></em> </ul>
+        </div>
+        <div class="box">
+            <img src="https://64.media.tumblr.com/c9f664bc20288d67258b5fdbcfc90f69/tumblr_pg84e34Auo1trxeuk_1280.png" alt=" Flowers">
+        </div>
+    </div>
+    <div class="box-row">
+        <div class="box"></div>
+        <div class="box green"> 
+                <em><b> t e s t 2 </b>
+                <p> </br> swag swag </br>
+            </em></div>
+    </div>
+    <div class="box-row">
+        <div class="box blue"></div>
+        <div class="box">
+        </div>
+    </div> -->
+
+</body>
+</html>
